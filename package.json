@@ -1,0 +1,19 @@
+{
+	"name": "sensor-components",
+	"version": "1.0.0",
+	"description": "",
+	"main": "sensor-components.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/sensor-components"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"observable-defer": "^1.0.2"
+	}
+}
